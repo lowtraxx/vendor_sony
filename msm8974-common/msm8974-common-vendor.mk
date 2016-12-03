@@ -23,7 +23,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/msm8974-common/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/sony/msm8974-common/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/sony/msm8974-common/proprietary/bin/qmuxd:system/bin/qmuxd \
-    vendor/sony/msm8974-common/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/sony/msm8974-common/proprietary/bin/radish:system/bin/radish \
     vendor/sony/msm8974-common/proprietary/bin/rfs_access:system/bin/rfs_access \
     vendor/sony/msm8974-common/proprietary/bin/rmt_storage:system/bin/rmt_storage \
@@ -36,7 +35,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/msm8974-common/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
     vendor/sony/msm8974-common/proprietary/lib/libwcnss_qmi.so:system/lib/libwcnss_qmi.so \
     vendor/sony/msm8974-common/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
-    vendor/sony/msm8974-common/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
     vendor/sony/msm8974-common/proprietary/vendor/lib/hw/activity_recognition.msm8974.so:system/vendor/lib/hw/activity_recognition.msm8974.so \
     vendor/sony/msm8974-common/proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/hw/flp.default.so \
     vendor/sony/msm8974-common/proprietary/vendor/lib/libacdbloader.so:system/vendor/lib/libacdbloader.so \
@@ -55,7 +53,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/msm8974-common/proprietary/vendor/lib/libmm-color-convertor.so:system/vendor/lib/libmm-color-convertor.so \
     vendor/sony/msm8974-common/proprietary/vendor/lib/libmmosal.so:system/vendor/lib/libmmosal.so \
     vendor/sony/msm8974-common/proprietary/vendor/lib/libqc-opt.so:system/vendor/lib/libqc-opt.so \
-    vendor/sony/msm8974-common/proprietary/vendor/lib/libQSEEComAPI.so:system/vendor/lib/libQSEEComAPI.so \
     vendor/sony/msm8974-common/proprietary/vendor/lib/libqti-perfd-client.so:system/vendor/lib/libqti-perfd-client.so \
     vendor/sony/msm8974-common/proprietary/vendor/lib/librpmb.so:system/vendor/lib/librpmb.so \
     vendor/sony/msm8974-common/proprietary/vendor/lib/libscale.so:system/vendor/lib/libscale.so \
@@ -64,10 +61,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/msm8974-common/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
     vendor/sony/msm8974-common/proprietary/vendor/lib/libthermalioctl.so:system/vendor/lib/libthermalioctl.so \
     vendor/sony/msm8974-common/proprietary/vendor/lib/libuiblur.so:system/vendor/lib/libuiblur.so \
-    vendor/sony/msm8974-common/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
-    vendor/sony/msm8974-common/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
-    vendor/sony/msm8974-common/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
-    vendor/sony/msm8974-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/sony/msm8974-common/proprietary/vendor/lib/soundfx/libqcbassboost.so:system/vendor/lib/soundfx/libqcbassboost.so \
     vendor/sony/msm8974-common/proprietary/vendor/lib/soundfx/libqcreverb.so:system/vendor/lib/soundfx/libqcreverb.so \
     vendor/sony/msm8974-common/proprietary/vendor/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so
